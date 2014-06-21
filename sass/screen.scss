@@ -4,3 +4,16 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 @import "compass/reset";
+
+
+.hidden{
+display:none;
+}
+
+.level{
+	position:absolute;
+	bottom:50%;
+	left:200px;
+}
+
+p{line-height:30px; font-size:24px; margin:0;}
