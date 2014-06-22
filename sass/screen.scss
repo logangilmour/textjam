@@ -38,6 +38,22 @@ a:active, a:hover{ text-decoration:none;}
 
 .new {margin-top:$lh;}
 
+#red{
+background-color:#f00;
+position:absolute;
+left:0;
+top:0;
+width:100%;
+height:100%;
+}
+#grey{
+background-color:#ddd;
+position:absolute;
+left:0;
+top:0;
+width:100%;
+height:100%;
+}
 
 .action{
 position:absolute;
